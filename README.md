@@ -1,12 +1,13 @@
 # Welcome to GitHub Pages Of PAT Solution In C
-My first statement is: The answers to these PAT questions are what Isearched online, and after sorting out they are used as notes for learning.
+My first statement is: The answers to these PAT questions are what I searched online, and after sorting out they are used as notes for learning.
 
 This is my personal study record, for the convenience of review, at the same time, it would be better if it can help friends are also studying. Since I have just started to learn some basic programming knowledge, so there will be some mistakes,I hope to communicate with you and progress togther!
 
 
-### Markdown
-
-
+### The question of PAT(basic level)
+1. 1001_害死人不偿命的（3n+1）猜想
+2. 1002_写出这个数
+3. 1003_我要通过
 Syntax highlighted code block
 
 # Header 1
