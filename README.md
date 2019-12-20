@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages Of PAT Solution In C
+# Welcome to GitHub Pages Of PAT Solution In C
+My first statement is: The answers to these PAT questions are what Isearched online, and after sorting out they are used as notes for learning.
+
 This is my personal study record, for the convenience of review, at the same time, it would be better if it can help friends are also studying. Since I have just started to learn some basic programming knowledge, so there will be some mistakes,I hope to communicate with you and progress togther!
 
 
