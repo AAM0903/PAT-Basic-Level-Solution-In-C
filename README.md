@@ -1,14 +1,10 @@
 ## Welcome to GitHub Pages Of PAT Solution In C
+This is my personal study record, for the convenience of review, at the same time, it would be better if it can help friends are also studying. Since I have just started to learn some basic programming knowledge, so there will be some mistakes,I hope to communicate with you and progress togther!
 
-You can use the [editor on GitHub](https://github.com/AAM0903/PAT-Basic-Level-Solution-In-C/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
