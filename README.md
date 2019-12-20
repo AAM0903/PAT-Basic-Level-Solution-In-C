@@ -7,7 +7,7 @@ This is my personal study record, for the convenience of review, at the same tim
 ### The question of PAT(basic level)
 1. 1001_害死人不偿命的（3n+1）猜想
 2. 1002_写出这个数
-3. 1003_我要通过
+3. [1003_我要通过](https://github.com/AAM0903/PAT-Basic-Level-Solution-In-C/blob/master/1003_%E6%88%91%E8%A6%81%E9%80%9A%E8%BF%87)
 Syntax highlighted code block
 
 # Header 1
