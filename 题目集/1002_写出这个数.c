@@ -2,8 +2,7 @@
 int main()
 {
 	int sum = 0;
-	char c, *pinyin[] = {"ling", "yi", "er", "san", "si",
-						 "wu", "liu", "qi", "ba","jiu"};
+	char c, *pinyin[] = {"ling", "yi", "er", "san", "si", "wu", "liu", "qi", "ba","jiu"};
 	
 	while ((c = getchar()) != '\n')
 		sum += c - '0';
